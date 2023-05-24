@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 400vh;
+    width: 100vw;
+}
+.container{
+    height: 400vh;
+    width: 100vw;
+}
+.main1{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(img/back\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
